@@ -4,17 +4,17 @@ This is a skin analysis web application that uses deep learning to detect acne s
 
 ---
 
-## 🚀 Features
+## Features
 
-- 📸 Upload or capture face images  
-- 🔍 Classifies acne into Clear, Mild, or Severe  
-- 💡 Displays customized skin-care recommendations  
-- ⚙️ Real-time prediction with FastAPI backend  
-- 🎨 Simple and intuitive React-based UI  
+- Upload or capture face images  
+- Classifies acne into Clear, Mild, or Severe  
+- Displays customized skin-care recommendations  
+- Real-time prediction with FastAPI backend  
+- Simple and intuitive React-based UI  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Part               | Technology             |
 |--------------------|------------------------|
@@ -26,7 +26,7 @@ This is a skin analysis web application that uses deep learning to detect acne s
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 acne-detection/
@@ -49,7 +49,7 @@ acne-detection/
 
 ---
 
-## 🧑‍💻 How to Run the Project
+## How to Run the Project
 
 ### 1. Clone the Repository
 
@@ -96,7 +96,7 @@ npm start
 
 ---
 
-## ⚠️ Troubleshooting
+## Troubleshooting
 
 - **Model file missing?**  
   Make sure your trained model file is in `backend/model/` and the path is correctly loaded in `app.py`.
@@ -122,7 +122,7 @@ npm start
 
 ---
 
-## 🧠 Model Info
+## Model Info
 
 - Trained on ~2000 labeled acne images
 - Classification Labels:
