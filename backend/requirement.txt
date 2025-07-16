@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+python-multipart
+tensorflow  # Or other ML model libraries you use
+numpy
